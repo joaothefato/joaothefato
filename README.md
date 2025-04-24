@@ -6,7 +6,6 @@
 - 🤔 Preciso de ajuda para melhorar minhas habilidades em programação e explorar novas tecnologias.  
 - 💬 Pergunte-me sobre programação, tendências tecnológicas ou minha jornada como estudante.  
 - 📫 Como me encontrar: chaveslima41@gmail.com  
-- 😄 Pronomes: [Seus pronomes, ex.: ele/dele].  
 - ⚡ Curiosidade: Sou apaixonado por programação e sempre curioso para aprender coisas novas!  
 
 
