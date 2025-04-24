@@ -12,7 +12,7 @@
 
 
 
-Me chamo João Antonio, tenho 19 anos e sou de Goias . Concluí o ensino médio no Setor Leste, com o curso técnico em ADS no Senac. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Senac. Sou apaixonado por tecnologia.
+Me chamo João Antonio, tenho 19 anos e sou de Goias, mas hoje moro em Brasília . Concluí o ensino médio no Setor Leste, com o curso técnico em ADS no Senac. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Senac. Sou apaixonado por tecnologia.
 <p align="left">
     >
         <img 
@@ -23,7 +23,7 @@ Me chamo João Antonio, tenho 19 anos e sou de Goias . Concluí o ensino médio 
     <>
         <img 
             "
-        />
+        /
     </a> 
     <a href="https://github.com/joaothefato?tab=repositories&sort=stargazers">
         <img 
